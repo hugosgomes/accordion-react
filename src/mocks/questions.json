@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "Pergunta 1",
+      "answer": "Resposta 1"
+    },
+    {
+      "question": "Que dia é hoje?",
+      "answer": "03/03/2022"
+    },
+    {
+      "question": "Que horas são?",
+      "answer": "15:52"
+    }
+  ]
+}
